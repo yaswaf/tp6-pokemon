@@ -1,0 +1,38 @@
+<div class="row">
+
+    <div class="col-md-offset-1 col-xs-2">
+        <h1>Liste des pokemons</h1>
+        <!-- Search -->
+        <select  class="form-control"name="pokemon" ng-model="pokemonSelected"  ng-change="MiseAjour(pokemonSelected)"   required >
+        <option ng-repeat="pokemon in pokemons" value="{{pokemon.name}}">{{pokemon.name}}</option>
+        </select>
+        </div>
+        <!-- Pokémon information -->
+        <div></div>
+    </div>
+</div>
+<div class="row">
+</div>
+<div class="row" style="padding-top: 10px">
+     <div class=" col-xs-1">
+    <label for="ex1">Entrez le nom du pokemon</label>
+</div>
+   
+          <div class="col-xs-2" >
+    
+    <input class="form-control" id="ex1" type="text" ng-model="pokemonName" ng-change="MiseAjour(pokemonName)">
+
+</div>
+<div class=" col-xs-1">
+<button type="button" ui-sref="pokemonDetail" ng-click="" class="btn btn-primary"> Chercher !</button>
+</div>
+
+</div>
+
+</div>
+<div class="row">
+<script type="text/javascript">
+    $(document).ready(function() {
+    $('.js-example-basic-single').select2();
+});
+</script>
