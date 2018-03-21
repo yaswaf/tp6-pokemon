@@ -1,12 +1,12 @@
-# Project Title
+# AngularJs Project
 
 Ce document permet de comprendre l'architecture du projet
 
 ## Pour commencer
 
-1 - répertoire js : contient nos fichiers angularJS, notre Pokedex.js ' app  principale'
-2 - répertoire services: contient nos factories 
-3 - répertoire View : contient nos fragemens de vue pour le routage
+* 1 - répertoire js : contient nos fichiers angularJS, notre Pokedex.js ' app  principale'
+* 2 - répertoire services: contient nos factories 
+* 3 - répertoire View : contient nos fragemens de vue pour le routage
 
 index.html , notre page principale qui injecte la directive qui constient notre application
 
