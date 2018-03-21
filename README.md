@@ -4,9 +4,9 @@ Ce projet est un projet AngularJS permettant d'expoiloiter la pokeapi https://po
 
 ## Pour commencer
 
-1 - Installer [WampServer](http://www.wampserver.com/) or xamp/lamp pour les utilisateurs de MAC
-2-  Cloner le git dans le repertoire www du WampServer dans C://
-3-  Entrer l'url localhost/'nom du répertoire' exemple (localhost/pokemon)
+* 1 - Installer [WampServer](http://www.wampserver.com/) or xamp/lamp pour les utilisateurs de MAC
+* 2-  Cloner le git dans le repertoire www du WampServer dans C://
+* 3-  Entrer l'url localhost/'nom du répertoire' exemple (localhost/pokemon)
 
 ### Comment Utiliser l'application
 
