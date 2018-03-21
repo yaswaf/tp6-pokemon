@@ -17,4 +17,4 @@ Il suffit juste d'écrire le nom du pokémon souhaité ou bien son id après avo
 ```
 ## Comprendre le code
 
-Lire [DESIGN.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) pour le détail de notre code
+Lire [DESIGN.md](https://github.com/yaswaf/tp6-pokemon/blob/master/DESIGN.md) pour le détail de notre code
